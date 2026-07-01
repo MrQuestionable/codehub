@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrQuestionable/codehub/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
 ## Prefix Sum
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
@@ -65,7 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
