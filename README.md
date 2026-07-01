@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
 ## Breadth-First Search
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
 ## Graph Theory
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
+| [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
 ## Topological Sort
@@ -76,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
