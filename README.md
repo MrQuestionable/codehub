@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrQuestionable/codehub/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/MrQuestionable/codehub/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrQuestionable/codehub/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -155,10 +156,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MrQuestionable/codehub/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,4 +170,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
