@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MrQuestionable/codehub/tree/main/0027-remove-element/) | Easy |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/MrQuestionable/codehub/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 ## Heap (Priority Queue)
@@ -198,5 +200,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
