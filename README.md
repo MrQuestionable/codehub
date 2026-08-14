@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/MrQuestionable/codehub/tree/main/0035-search-insert-position/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/MrQuestionable/codehub/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0493-reverse-pairs](https://github.com/MrQuestionable/codehub/tree/main/0493-reverse-pairs/) | Hard |
 ## Interactive
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/MrQuestionable/codehub/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrQuestionable/codehub/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/MrQuestionable/codehub/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/MrQuestionable/codehub/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
