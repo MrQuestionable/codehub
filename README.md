@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/MrQuestionable/codehub/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0493-reverse-pairs](https://github.com/MrQuestionable/codehub/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/MrQuestionable/codehub/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/MrQuestionable/codehub/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/MrQuestionable/codehub/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/MrQuestionable/codehub/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Prefix Sum
