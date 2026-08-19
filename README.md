@@ -288,5 +288,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/MrQuestionable/codehub/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/MrQuestionable/codehub/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/MrQuestionable/codehub/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
