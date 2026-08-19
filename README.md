@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/MrQuestionable/codehub/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/MrQuestionable/codehub/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/MrQuestionable/codehub/tree/main/0344-reverse-string/) | Easy |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/MrQuestionable/codehub/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MrQuestionable/codehub/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MrQuestionable/codehub/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MrQuestionable/codehub/tree/main/0344-reverse-string/) | Easy |
