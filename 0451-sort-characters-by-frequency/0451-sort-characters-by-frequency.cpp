@@ -1,20 +1,25 @@
-#include<bits/stdc++.h>
 class Solution {
 public:
     string frequencySort(string s) {
-       int frequency=INT_MIN;
-       unordered_map<char, int> mp;
-       for(char ch:s){
-        mp[ch]++;
-       }
-       vector<pair<char,int>> freq(mp.begin(),mp.end());
-       sort(freq.begin(), freq.end(), [](pair<char, int>& a, pair<char, int>& b) {
-            return a.second > b.second; 
-        });
-        string result="";
-        for(auto pair:freq){
-            result.append(pair.second,pair.first);
+        map<char, int > freq ;
+        string ans;
+        vector<pair<char, int > > v;
+        for (char c:s){
+            freq[c]++;
         }
-        return result;
+        for(auto a: freq){
+            v.push_back(a);
+
+        }
+        sort(v.begin(), v.end(), [](auto &a, auto &b) {
+             return a.second > b.second;
+        });
+        for(int i = 0 ; i < v.size(); i++){
+            for(int j = 0 ; j < v[i].second; j++){
+                ans+=(v[i].first);
+            }
+        }
+        return ans;
+        
     }
 };
