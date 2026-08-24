@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/MrQuestionable/codehub/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/MrQuestionable/codehub/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -319,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0008-string-to-integer-atoi](https://github.com/MrQuestionable/codehub/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/MrQuestionable/codehub/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrQuestionable/codehub/tree/main/0013-roman-to-integer/) | Easy |
+| [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MrQuestionable/codehub/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MrQuestionable/codehub/tree/main/0205-isomorphic-strings/) | Easy |
@@ -367,4 +369,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MrQuestionable/codehub/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MrQuestionable/codehub/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
