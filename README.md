@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MrQuestionable/codehub/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/MrQuestionable/codehub/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MrQuestionable/codehub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/MrQuestionable/codehub/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/MrQuestionable/codehub/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/MrQuestionable/codehub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
