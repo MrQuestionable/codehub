@@ -5,10 +5,10 @@ public:
             ans.push_back(ds);
             return;
         }
-        solve(ind+1,ds,nums,ans);
         ds.push_back(nums[ind]);
         solve(ind+1,ds,nums,ans);
         ds.pop_back();
+        solve(ind+1,ds,nums,ans);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
