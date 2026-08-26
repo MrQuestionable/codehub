@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MrQuestionable/codehub/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MrQuestionable/codehub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MrQuestionable/codehub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/MrQuestionable/codehub/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrQuestionable/codehub/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrQuestionable/codehub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MrQuestionable/codehub/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MrQuestionable/codehub/tree/main/0141-linked-list-cycle/) | Easy |
@@ -385,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrQuestionable/codehub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MrQuestionable/codehub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MrQuestionable/codehub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/MrQuestionable/codehub/tree/main/0051-n-queens/) | Hard |
@@ -402,5 +406,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/MrQuestionable/codehub/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
