@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/MrQuestionable/codehub/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/MrQuestionable/codehub/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/MrQuestionable/codehub/tree/main/0169-majority-element/) | Easy |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
+| [0136-single-number](https://github.com/MrQuestionable/codehub/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/MrQuestionable/codehub/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MrQuestionable/codehub/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Algorithm X
