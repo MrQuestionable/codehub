@@ -1,24 +1,24 @@
 class Solution {
 public:
-    void solve(int ind,string s,string digits,vector<string> &ans){
-        string map [10]={"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
-        if(ind==digits.size()){
-            ans.push_back(s);
-            return;
-        }
-        int num=digits[ind]-'0';
-        string va=map[num];
-        for(int i=0;i<va.size();i++){
-            s.push_back(va[i]);
-            solve(ind+1,s,digits,ans);
-            s.pop_back();
-        }
-    }
     vector<string> letterCombinations(string digits) {
-        vector<string> ans;
-        if(digits.size()==0)return ans;
-        string s;
-        solve(0,s,digits,ans);
+        if(digits.length()==0){
+            return {};
+        }
+        vector<string> mp = {
+            "", "", "abc", "def", "ghi",
+            "jkl", "mno", "pqrs", "tuv", "wxyz"
+        };
+        vector<string> ans = {""};
+        for(int i=0;i<digits.length();i++){
+            string let = mp[digits[i]-'0'];
+            vector<string> temp;
+            for(string s:ans){
+                for(int j=0;j<let.length();j++){
+                    temp.push_back(s+let[j]);
+                }
+            }
+            ans = temp;
+        }
         return ans;
     }
 };
