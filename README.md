@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/MrQuestionable/codehub/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/MrQuestionable/codehub/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrQuestionable/codehub/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrQuestionable/codehub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MrQuestionable/codehub/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
