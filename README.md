@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/MrQuestionable/codehub/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/MrQuestionable/codehub/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/MrQuestionable/codehub/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/MrQuestionable/codehub/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/MrQuestionable/codehub/tree/main/0040-combination-sum-ii/) | Medium |
+| [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/MrQuestionable/codehub/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/MrQuestionable/codehub/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/MrQuestionable/codehub/tree/main/0053-maximum-subarray/) | Medium |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/MrQuestionable/codehub/tree/main/0155-min-stack/) | Medium |
@@ -232,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MrQuestionable/codehub/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrQuestionable/codehub/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/MrQuestionable/codehub/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0088-merge-sorted-array/) | Easy |
@@ -443,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/MrQuestionable/codehub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
