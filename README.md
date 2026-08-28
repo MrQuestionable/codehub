@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0229-majority-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrQuestionable/codehub/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrQuestionable/codehub/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0283-move-zeroes/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/MrQuestionable/codehub/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/MrQuestionable/codehub/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 ## Shortest Path
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MrQuestionable/codehub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MrQuestionable/codehub/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -457,4 +460,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/MrQuestionable/codehub/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/MrQuestionable/codehub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0503-next-greater-element-ii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
