@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/MrQuestionable/codehub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0735-asteroid-collision](https://github.com/MrQuestionable/codehub/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrQuestionable/codehub/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrQuestionable/codehub/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/MrQuestionable/codehub/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/MrQuestionable/codehub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0735-asteroid-collision](https://github.com/MrQuestionable/codehub/tree/main/0735-asteroid-collision/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/MrQuestionable/codehub/tree/main/0054-spiral-matrix/) | Medium |
+| [0735-asteroid-collision](https://github.com/MrQuestionable/codehub/tree/main/0735-asteroid-collision/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
