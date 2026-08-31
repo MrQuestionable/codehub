@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrQuestionable/codehub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/MrQuestionable/codehub/tree/main/0735-asteroid-collision/) | Medium |
+| [0860-lemonade-change](https://github.com/MrQuestionable/codehub/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/MrQuestionable/codehub/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MrQuestionable/codehub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MrQuestionable/codehub/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -376,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/MrQuestionable/codehub/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/MrQuestionable/codehub/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/MrQuestionable/codehub/tree/main/0455-assign-cookies/) | Easy |
+| [0860-lemonade-change](https://github.com/MrQuestionable/codehub/tree/main/0860-lemonade-change/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
