@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MrQuestionable/codehub/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Tree
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MrQuestionable/codehub/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Stack
@@ -530,4 +533,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/MrQuestionable/codehub/tree/main/0901-online-stock-span/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
