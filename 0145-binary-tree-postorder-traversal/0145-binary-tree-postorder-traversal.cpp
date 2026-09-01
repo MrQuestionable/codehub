@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    void inor(TreeNode* root,vector<int>&ans){
-        if(root==NULL)return;
-        inor(root->left,ans);
-        inor(root->right,ans);
-        ans.push_back(root->val);
-        
-    }
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        inor(root, ans);
-        return ans;
+        vector<int>n;
+        postOrder(root, n);
+        return n;
     }
+    void postOrder(TreeNode *head, vector<int>& n){
+        if (head == nullptr) return;
+        postOrder(head->left, n);
+        postOrder(head->right, n);
+        n.push_back(head->val);
+    }
+
 };
