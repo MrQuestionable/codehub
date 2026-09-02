@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/MrQuestionable/codehub/tree/main/1922-count-good-numbers/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/MrQuestionable/codehub/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/MrQuestionable/codehub/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
