@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MrQuestionable/codehub/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Breadth-First Search
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MrQuestionable/codehub/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Binary Tree
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MrQuestionable/codehub/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## Stack
@@ -313,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/MrQuestionable/codehub/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MrQuestionable/codehub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MrQuestionable/codehub/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrQuestionable/codehub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Sorting
@@ -328,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/MrQuestionable/codehub/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/MrQuestionable/codehub/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/MrQuestionable/codehub/tree/main/0455-assign-cookies/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
