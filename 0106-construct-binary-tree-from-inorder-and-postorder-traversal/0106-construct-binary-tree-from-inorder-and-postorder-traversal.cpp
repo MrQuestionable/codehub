@@ -19,9 +19,9 @@ public:
         int inroot = mp[root->val];
         int numsleft = inroot - instart;
         root->left = buildTreeHelper(inorder, instart, inroot - 1, 
-                                     postorder, poststart, poststart + numsleft - 1, mp);
+         postorder, poststart, poststart + numsleft - 1, mp);
         root->right = buildTreeHelper(inorder, inroot + 1, inend, 
-                                      postorder, poststart + numsleft, postend - 1, mp);
+          postorder, poststart + numsleft, postend - 1, mp);
         
         return root;
     }
@@ -32,6 +32,6 @@ public:
             mp[inorder[i]] = i;
         }
         return buildTreeHelper(inorder, 0, inorder.size() - 1, 
-                               postorder, 0, postorder.size() - 1, mp);
+        postorder, 0, postorder.size() - 1, mp);
     }
 };
