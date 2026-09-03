@@ -9,8 +9,6 @@
  */
 class Codec {
 public:
-
-    // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
         if(root==NULL)return "";
         string s="";
@@ -29,9 +27,6 @@ public:
         cout<<s;
         return s;
     }
-
-    // Decodes your encoded data to tree.
-
     TreeNode* deserialize(string data) {
         if (data.empty()) {
             return nullptr;
