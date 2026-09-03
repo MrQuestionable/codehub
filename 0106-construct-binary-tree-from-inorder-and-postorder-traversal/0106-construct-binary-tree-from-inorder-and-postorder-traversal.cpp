@@ -12,8 +12,8 @@
 class Solution {
 public:
     TreeNode* buildTreeHelper(vector<int>& inorder, int instart, int inend, 
-                              vector<int>& postorder, int poststart, int postend, 
-                              unordered_map<int,int>& mp) {
+        vector<int>& postorder, int poststart, int postend, 
+        unordered_map<int,int>& mp) {
         if (instart > inend || poststart > postend) return NULL;
         TreeNode* root = new TreeNode(postorder[postend]);
         int inroot = mp[root->val];
@@ -22,7 +22,6 @@ public:
          postorder, poststart, poststart + numsleft - 1, mp);
         root->right = buildTreeHelper(inorder, inroot + 1, inend, 
           postorder, poststart + numsleft, postend - 1, mp);
-        
         return root;
     }
     
