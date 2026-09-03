@@ -157,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/MrQuestionable/codehub/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/MrQuestionable/codehub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -268,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/MrQuestionable/codehub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
@@ -439,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/MrQuestionable/codehub/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MrQuestionable/codehub/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MrQuestionable/codehub/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0344-reverse-string](https://github.com/MrQuestionable/codehub/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/MrQuestionable/codehub/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MrQuestionable/codehub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -528,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/MrQuestionable/codehub/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/MrQuestionable/codehub/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/MrQuestionable/codehub/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0901-online-stock-span](https://github.com/MrQuestionable/codehub/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
