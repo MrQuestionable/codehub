@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MrQuestionable/codehub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/MrQuestionable/codehub/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrQuestionable/codehub/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/MrQuestionable/codehub/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
