@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/MrQuestionable/codehub/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/MrQuestionable/codehub/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/MrQuestionable/codehub/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/MrQuestionable/codehub/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/MrQuestionable/codehub/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/MrQuestionable/codehub/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/MrQuestionable/codehub/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/MrQuestionable/codehub/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/MrQuestionable/codehub/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/MrQuestionable/codehub/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/MrQuestionable/codehub/tree/main/1922-count-good-numbers/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/MrQuestionable/codehub/tree/main/0136-single-number/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/MrQuestionable/codehub/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0231-power-of-two](https://github.com/MrQuestionable/codehub/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/MrQuestionable/codehub/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MrQuestionable/codehub/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Algorithm X
 | Problem Name | Difficulty |
