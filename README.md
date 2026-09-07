@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/MrQuestionable/codehub/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/MrQuestionable/codehub/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrQuestionable/codehub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [0994-rotting-oranges](https://github.com/MrQuestionable/codehub/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrQuestionable/codehub/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrQuestionable/codehub/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/MrQuestionable/codehub/tree/main/0994-rotting-oranges/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/MrQuestionable/codehub/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrQuestionable/codehub/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/MrQuestionable/codehub/tree/main/0994-rotting-oranges/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/MrQuestionable/codehub/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
