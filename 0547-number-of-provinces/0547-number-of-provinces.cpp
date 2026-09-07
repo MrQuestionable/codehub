@@ -1,43 +1,28 @@
+#include <vector>
+
+using namespace std;
+
 class Solution {
 public:
-    void rec(unordered_map<int,vector<int>>&adj, vector<bool>&vis, int u){
- 
-        vis[u] = true;
- 
-        for(auto nbr: adj[u]){
- 
-            if(vis[nbr] == false){
-                rec(adj, vis, nbr);
+    void dfs(int node, vector<vector<int>>& isConnected, vector<int>& vis) {
+        vis[node] = 1;
+        for (int j = 0; j < isConnected.size(); j++) {
+            if (isConnected[node][j] == 1 && !vis[j]) {
+                dfs(j, isConnected, vis); 
             }
         }
     }
- 
+    
     int findCircleNum(vector<vector<int>>& isConnected) {
- 
-        unordered_map<int,vector<int>>adj;
         int n = isConnected.size();
-        int m = isConnected[0].size();
- 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
- 
-                if(i == j) continue;
-                if(isConnected[i][j] == 1){
-                    adj[i].push_back(j);
-                }
+        vector<int> vis(n, 0); 
+        int cnt = 0;
+        for (int i = 0; i < n; i++) {
+            if (!vis[i]) {
+                cnt++;
+                dfs(i, isConnected, vis);
             }
         }
- 
-        int count = 0;
-        vector<bool>vis(n, 0);
-        for(int i = 0; i < n; i++){
-            if(vis[i] == false){
-                rec(adj, vis, i);
-                count++;
-            }
-        }
- 
-        return count;
-        
+        return cnt;    
     }
 };
