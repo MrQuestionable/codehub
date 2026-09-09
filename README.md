@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/MrQuestionable/codehub/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrQuestionable/codehub/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MrQuestionable/codehub/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MrQuestionable/codehub/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MrQuestionable/codehub/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/MrQuestionable/codehub/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MrQuestionable/codehub/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MrQuestionable/codehub/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/MrQuestionable/codehub/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/MrQuestionable/codehub/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MrQuestionable/codehub/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/MrQuestionable/codehub/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/MrQuestionable/codehub/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
