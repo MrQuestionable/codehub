@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/MrQuestionable/codehub/tree/main/1020-number-of-enclaves/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MrQuestionable/codehub/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/MrQuestionable/codehub/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Breadth-First Search
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1020-number-of-enclaves](https://github.com/MrQuestionable/codehub/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/MrQuestionable/codehub/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/MrQuestionable/codehub/tree/main/1302-deepest-leaves-sum/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MrQuestionable/codehub/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-cheapest-flights-within-k-stops](https://github.com/MrQuestionable/codehub/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/MrQuestionable/codehub/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MrQuestionable/codehub/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/MrQuestionable/codehub/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0886-possible-bipartition](https://github.com/MrQuestionable/codehub/tree/main/0886-possible-bipartition/) | Medium |
 | [1020-number-of-enclaves](https://github.com/MrQuestionable/codehub/tree/main/1020-number-of-enclaves/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/MrQuestionable/codehub/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
