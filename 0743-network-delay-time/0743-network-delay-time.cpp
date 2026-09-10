@@ -8,11 +8,11 @@ public:
         }
         vector<int> dist(n+1,INT_MAX);
         dist[k]=0;
-        queue<pair<int,int>> q;
+        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<>> q;
         q.push({0,k});
         while(!q.empty()){
-            int time=q.front().first;
-            int node=q.front().second;
+            int time=q.top().first;
+            int node=q.top().second;
             q.pop();
             for(auto& [nbr,wt]:adj[node]){
                 if(wt+time<dist[nbr]){
