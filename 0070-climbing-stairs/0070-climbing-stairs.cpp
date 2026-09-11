@@ -1,22 +1,20 @@
 class Solution {
 public:
-    int rec(int n, vector<int>&dp){
- 
-        if(n == 0) return 1;
-        if(n == -1) return 0;
-        if(dp[n] != -1) return dp[n];
-        
- 
-        int one = rec(n - 1, dp);
-        int two = rec(n - 2, dp);
- 
-        dp[n] = one + two;
-        return one + two;
-    }
- 
     int climbStairs(int n) {
-        vector<int>dp(n + 1, -1);
-        return rec(n, dp);
+        if(n == 1) return 1;
+        if(n == 2) return 2;
         
+        int prev2 = 1; // Represents dp[i-2]
+        int prev1 = 2; // Represents dp[i-1]
+        
+        for(int i = 3; i <= n; i++){
+            int current = prev1 + prev2;
+            
+            // Shift our variables forward for the next iteration
+            prev2 = prev1;
+            prev1 = current;
+        }
+        
+        return prev1;
     }
 };
