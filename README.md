@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/MrQuestionable/codehub/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/MrQuestionable/codehub/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/MrQuestionable/codehub/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/MrQuestionable/codehub/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/MrQuestionable/codehub/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/MrQuestionable/codehub/tree/main/0542-01-matrix/) | Medium |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/MrQuestionable/codehub/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/MrQuestionable/codehub/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/MrQuestionable/codehub/tree/main/0213-house-robber-ii/) | Medium |
 | [0229-majority-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrQuestionable/codehub/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
