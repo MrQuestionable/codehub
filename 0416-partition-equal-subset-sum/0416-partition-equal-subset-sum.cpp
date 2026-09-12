@@ -1,23 +1,27 @@
 class Solution {
 public:
-    bool solve(int ind,int target,vector<int>& nums,vector<vector<int>> &dp){
-        int n=nums.size();
-        if(target==0)return true;
-        if(ind==0)return nums[0]==target;
-        if(dp[ind][target]!=-1)return dp[ind][target];
-        bool notake=solve(ind-1,target,nums,dp);
-        bool take=false;
-        if(target>=nums[ind])take=solve(ind-1,target-nums[ind],nums,dp);
-        return dp[ind][target]=take|notake;
-    }
     bool canPartition(vector<int>& nums) {
-        int n=nums.size();
+        int n = nums.size();
+        int totsum = 0;
+        for(int i = 0; i < n; i++) totsum += nums[i];
         
-        int totsum=0;
-        for(int i=0;i<n;i++)totsum+=nums[i];
-        if(totsum%2!=0)return false;
-        int target=totsum/2;
-        vector<vector<int>> dp(n,vector<int>(target+1,-1));
-        return solve(n-1,target,nums,dp);
+        if(totsum % 2 != 0) return false;
+        int target = totsum / 2;
+        vector<vector<bool>> dp(n, vector<bool>(target + 1, false));
+        for(int i = 0; i < n; i++){
+            dp[i][0] = true;
+        }
+        if(nums[0] <= target) dp[0][nums[0]] = true;
+        for(int i = 1; i < n; i++){
+            for(int t = 1; t <= target; t++){
+                
+                bool notake = dp[i-1][t];
+                
+                bool take = false;
+                if(t >= nums[i]) take = dp[i-1][t - nums[i]];
+                dp[i][t] = take | notake;
+            }
+        }
+        return dp[n-1][target];    
     }
 };
