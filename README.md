@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/MrQuestionable/codehub/tree/main/0213-house-robber-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/MrQuestionable/codehub/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/MrQuestionable/codehub/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/MrQuestionable/codehub/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/MrQuestionable/codehub/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MrQuestionable/codehub/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/MrQuestionable/codehub/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/MrQuestionable/codehub/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0493-reverse-pairs](https://github.com/MrQuestionable/codehub/tree/main/0493-reverse-pairs/) | Hard |
+| [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/MrQuestionable/codehub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -606,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/MrQuestionable/codehub/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
+| [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -726,8 +729,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/MrQuestionable/codehub/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/MrQuestionable/codehub/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
