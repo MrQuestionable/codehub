@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/MrQuestionable/codehub/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/MrQuestionable/codehub/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0542-01-matrix](https://github.com/MrQuestionable/codehub/tree/main/0542-01-matrix/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/MrQuestionable/codehub/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MrQuestionable/codehub/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MrQuestionable/codehub/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Memoization
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/MrQuestionable/codehub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/MrQuestionable/codehub/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/MrQuestionable/codehub/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/MrQuestionable/codehub/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0796-rotate-string](https://github.com/MrQuestionable/codehub/tree/main/0796-rotate-string/) | Easy |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MrQuestionable/codehub/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -739,4 +741,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/MrQuestionable/codehub/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/MrQuestionable/codehub/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 <!---LeetCode Topics End-->
