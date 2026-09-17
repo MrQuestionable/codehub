@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/MrQuestionable/codehub/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/MrQuestionable/codehub/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/MrQuestionable/codehub/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/MrQuestionable/codehub/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MrQuestionable/codehub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/MrQuestionable/codehub/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -543,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrQuestionable/codehub/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
+| [0072-edit-distance](https://github.com/MrQuestionable/codehub/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/MrQuestionable/codehub/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/MrQuestionable/codehub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
