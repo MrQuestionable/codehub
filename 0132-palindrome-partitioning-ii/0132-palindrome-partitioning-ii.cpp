@@ -7,7 +7,7 @@ public:
             dp[i] = i - 1; 
         }
         
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i <= n; i++){
             
             for(int l = i, r = i; l >= 0 && r < n && s[l] == s[r]; l--, r++){
                 dp[r + 1] = min(dp[r + 1], dp[l] + 1);
