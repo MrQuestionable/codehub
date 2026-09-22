@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/MrQuestionable/codehub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1048-longest-string-chain](https://github.com/MrQuestionable/codehub/tree/main/1048-longest-string-chain/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MrQuestionable/codehub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/MrQuestionable/codehub/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MrQuestionable/codehub/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MrQuestionable/codehub/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MrQuestionable/codehub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -709,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/MrQuestionable/codehub/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrQuestionable/codehub/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/MrQuestionable/codehub/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrQuestionable/codehub/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
