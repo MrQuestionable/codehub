@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/MrQuestionable/codehub/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/MrQuestionable/codehub/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrQuestionable/codehub/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/MrQuestionable/codehub/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/MrQuestionable/codehub/tree/main/0100-same-tree/) | Easy |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/MrQuestionable/codehub/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/MrQuestionable/codehub/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MrQuestionable/codehub/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/MrQuestionable/codehub/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/MrQuestionable/codehub/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/MrQuestionable/codehub/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -580,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/MrQuestionable/codehub/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/MrQuestionable/codehub/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MrQuestionable/codehub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/MrQuestionable/codehub/tree/main/0125-valid-palindrome/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/MrQuestionable/codehub/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -656,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0040-combination-sum-ii](https://github.com/MrQuestionable/codehub/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/MrQuestionable/codehub/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
 | [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 ## Bracket Sequences
