@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/MrQuestionable/codehub/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/MrQuestionable/codehub/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/MrQuestionable/codehub/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/MrQuestionable/codehub/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/MrQuestionable/codehub/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MrQuestionable/codehub/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0118-pascals-triangle](https://github.com/MrQuestionable/codehub/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/MrQuestionable/codehub/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/MrQuestionable/codehub/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrQuestionable/codehub/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MrQuestionable/codehub/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
