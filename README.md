@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrQuestionable/codehub/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrQuestionable/codehub/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/MrQuestionable/codehub/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrQuestionable/codehub/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MrQuestionable/codehub/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -738,6 +740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MrQuestionable/codehub/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrQuestionable/codehub/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/MrQuestionable/codehub/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/MrQuestionable/codehub/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrQuestionable/codehub/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -766,6 +769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrQuestionable/codehub/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/MrQuestionable/codehub/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
