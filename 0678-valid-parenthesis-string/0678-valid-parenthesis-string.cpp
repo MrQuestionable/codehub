@@ -5,7 +5,7 @@ public:
         for(char c:s){
             if(c=='('){
                 cmax++,cmin++;
-            }
+            }   
             else if(c==')'){
                 cmax--,cmin--;
             }
