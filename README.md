@@ -270,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/MrQuestionable/codehub/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0542-01-matrix](https://github.com/MrQuestionable/codehub/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/MrQuestionable/codehub/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/MrQuestionable/codehub/tree/main/0733-flood-fill/) | Easy |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/MrQuestionable/codehub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/MrQuestionable/codehub/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/MrQuestionable/codehub/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/MrQuestionable/codehub/tree/main/0344-reverse-string/) | Easy |
 | [0402-remove-k-digits](https://github.com/MrQuestionable/codehub/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MrQuestionable/codehub/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -699,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/MrQuestionable/codehub/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/MrQuestionable/codehub/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/MrQuestionable/codehub/tree/main/0090-subsets-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/MrQuestionable/codehub/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/MrQuestionable/codehub/tree/main/0494-target-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
