@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrQuestionable/codehub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/MrQuestionable/codehub/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MrQuestionable/codehub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MrQuestionable/codehub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrQuestionable/codehub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/MrQuestionable/codehub/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MrQuestionable/codehub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/MrQuestionable/codehub/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MrQuestionable/codehub/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/MrQuestionable/codehub/tree/main/1048-longest-string-chain/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MrQuestionable/codehub/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrQuestionable/codehub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MrQuestionable/codehub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MrQuestionable/codehub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
