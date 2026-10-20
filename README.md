@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1922-count-good-numbers](https://github.com/MrQuestionable/codehub/tree/main/1922-count-good-numbers/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MrQuestionable/codehub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/MrQuestionable/codehub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/MrQuestionable/codehub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MrQuestionable/codehub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/MrQuestionable/codehub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/MrQuestionable/codehub/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/MrQuestionable/codehub/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Prefix Sum
@@ -532,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrQuestionable/codehub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MrQuestionable/codehub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MrQuestionable/codehub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/MrQuestionable/codehub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -865,4 +868,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/MrQuestionable/codehub/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3886-sum-of-sortable-integers](https://github.com/MrQuestionable/codehub/tree/main/3886-sum-of-sortable-integers/) | Hard |
 <!---LeetCode Topics End-->
