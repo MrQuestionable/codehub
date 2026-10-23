@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/MrQuestionable/codehub/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MrQuestionable/codehub/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MrQuestionable/codehub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/MrQuestionable/codehub/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/MrQuestionable/codehub/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/MrQuestionable/codehub/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -743,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/MrQuestionable/codehub/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/MrQuestionable/codehub/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/MrQuestionable/codehub/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/MrQuestionable/codehub/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
