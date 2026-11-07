@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MrQuestionable/codehub/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrQuestionable/codehub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/MrQuestionable/codehub/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/MrQuestionable/codehub/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MrQuestionable/codehub/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/MrQuestionable/codehub/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/MrQuestionable/codehub/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/MrQuestionable/codehub/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/MrQuestionable/codehub/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/MrQuestionable/codehub/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
