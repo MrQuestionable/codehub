@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/MrQuestionable/codehub/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0509-fibonacci-number](https://github.com/MrQuestionable/codehub/tree/main/0509-fibonacci-number/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrQuestionable/codehub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/MrQuestionable/codehub/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/MrQuestionable/codehub/tree/main/1922-count-good-numbers/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/MrQuestionable/codehub/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/MrQuestionable/codehub/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/MrQuestionable/codehub/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MrQuestionable/codehub/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrQuestionable/codehub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MrQuestionable/codehub/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/MrQuestionable/codehub/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Memoization
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/MrQuestionable/codehub/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrQuestionable/codehub/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrQuestionable/codehub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/MrQuestionable/codehub/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/MrQuestionable/codehub/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/MrQuestionable/codehub/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -223,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1109-corporate-flight-bookings](https://github.com/MrQuestionable/codehub/tree/main/1109-corporate-flight-bookings/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrQuestionable/codehub/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrQuestionable/codehub/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrQuestionable/codehub/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrQuestionable/codehub/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/MrQuestionable/codehub/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/MrQuestionable/codehub/tree/main/3904-smallest-stable-index-ii/) | Medium |
